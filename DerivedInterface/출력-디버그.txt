@@ -1,0 +1,4 @@
+﻿'DerivedInterface.exe'(CLR v4.0.30319: DefaultDomain): 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'을(를) 로드했습니다. 기호를 로드하지 않고 건너뛰었습니다. 모듈이 최적화되어 있고 '내 코드만' 디버거 옵션을 사용하도록 설정되어 있습니다.
+'DerivedInterface.exe'(CLR v4.0.30319: DefaultDomain): 'C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'DerivedInterface.exe'(CLR v4.0.30319: DerivedInterface.exe): 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\common7\ide\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.dll'을(를) 로드했습니다. 기호를 로드하지 않고 건너뛰었습니다. 모듈이 최적화되어 있고 '내 코드만' 디버거 옵션을 사용하도록 설정되어 있습니다.
+'[11600] DerivedInterface.exe' 프로그램이 종료되었습니다(코드: -1073741510 (0xc000013a)).

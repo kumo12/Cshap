@@ -1,0 +1,7 @@
+C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.exe.config
+C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.exe
+C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.pdb
+C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.csprojAssemblyReference.cache
+C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.exe
+C:\Users\User010\Desktop\C# 자료\결과\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.pdb
